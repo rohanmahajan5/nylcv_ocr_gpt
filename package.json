@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@google/genai": "^0.13.0",
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.5.0",
+    "openai": "^4.98.0",
+    "pdf-poppler": "^0.2.1",
+    "pdf-to-img": "^4.4.0",
+    "sharp": "^0.34.1"
+  }
+}
