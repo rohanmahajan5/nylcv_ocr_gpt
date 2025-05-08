@@ -19,7 +19,7 @@ const PROMPT   = "This is an environmental report. Can you summarize what the im
 // Derived output location (not shown to the user)
 const OUTPUT_IMG = path.join(
   process.cwd(),
-  `${path.parse(PDF_PATH).name}.png`
+  `output/${path.parse(PDF_PATH).name}.png`
 );
 
 // ──────────────────────────────────────────────────────────────────────────────
